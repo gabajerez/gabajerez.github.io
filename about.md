@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-Some information about you!
+Gabriela Jerez Sandoval, 29 años, interés en el medio ambiente y la sustentabilidad.
 
-### More Information
+### Más información
 
-A place to include any other types of information that you'd like to include about yourself.
+No tengo más que contar, por ahora...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gabajerez@gmail.com](mailto:gabajerez@gmail.com)
